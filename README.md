@@ -1,4 +1,4 @@
-# Bile duct predictions
+# Bile Duct Predictions
 
 Analysis and prediction of bile duct conditions, specifically focusing on intraductal concrement (bile duct stones).
 
